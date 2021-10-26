@@ -1,39 +1,9 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kunalvasudevan 
-appsplash99
-/
-relive-v1-hackNagpur-final
-Public
-1
-10
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-relive-v1-hackNagpur-final/README.md
-@appsplash99
-appsplash99 Update README.md
-Latest commit ebac3d9 on 2 Jan
- History
- 1 contributor
-69 lines (39 sloc)  1.98 KB
-   
 <!-- PROJECT LOGO -->
 <br />
 <img align="center" src="static/heart.png" alt="app" height="200px"/>
 <h1 align="left"> PROJECT NAME: reLIVE</h1>
 <h3 align="left"> Instantly Connect with nearest Hospitals.</h3>
-<a href="https://relive-flask-app.herokuapp.com" target="_blank">:rocket: Play It Here</a>
+<a href="https://youtu.be/SdWrUcG1Oig" target="_blank">:rocket: Play It Here</a>
 <br /><br />
 
 
